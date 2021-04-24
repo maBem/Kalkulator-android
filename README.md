@@ -17,7 +17,7 @@ Project is created with:
 * Android Studio version: 4.1
 
 ## Screens
-<img src="images/Screenshot_2.png" width="300" height="600"> <img src="images/Screenshot_3.png" width="300" height="604"> <img src="images/Screenshot_4.png" width="300" height="600">
+<img src="images/Screenshot_3.png" width="300" height="604"> <img src="images/Screenshot_4.png" width="300" height="600">
 <img src="images/Screenshot_7.png" width="600" height="300"> 
 
 
