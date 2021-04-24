@@ -2,8 +2,8 @@
 Simple app containing two versions of the calculator: simple and advanced
 
 ## Table of contents
-*[General info](#general-info)
-*[Technologies](#technologies)
+* [General info](#general-info)
+* [Technologies](#technologies)
 
 ## General info
 This project containing calculator. We can choose simple calculator with four basic operations: addition, subtraction, multiplication and division. 
