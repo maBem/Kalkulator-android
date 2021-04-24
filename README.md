@@ -12,7 +12,7 @@ extraction of a root. App will be run on devices with Android 8.0 and minimum AP
 
 ## Technologies
 Project is created with:
-*java version: 1.8.0_281
-*mXparser version: 4.4.0
-*Android Studio version: 4.1
+* java version: 1.8.0_281
+* mXparser version: 4.4.0
+* Android Studio version: 4.1
 
