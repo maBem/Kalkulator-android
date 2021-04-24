@@ -18,7 +18,7 @@ Project is created with:
 
 ## Screens
 <img src="images/Screenshot_2.png" width="300" height="600"> <img src="images/Screenshot_3.png" width="300" height="604"> <img src="images/Screenshot_4.png" width="300" height="600">
-
+<img src="images/Screenshot_7.png" width="600" height="300"> 
 
 
 
